@@ -1,0 +1,19 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "first"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeleo1/angular-todo.git"
+  },
+  "author": "joeleo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeleo1/angular-todo/issues"
+  },
+  "homepage": "https://github.com/joeleo1/angular-todo#readme"
+}
